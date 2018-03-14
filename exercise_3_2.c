@@ -17,6 +17,6 @@ int main(int argc, char *argv[]) {
 	return 0;
 
 
-/* if input 12.3		45.6	789 , then x = 12.3, i = 45, and y = 0.6*/
+/* if input 12.3	45.6	789 , then x = 12.3, i = 45, and y = 0.6*/
 
 }
